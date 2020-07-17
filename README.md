@@ -1,8 +1,5 @@
 ### Hey There!
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Backend, Automation, Scripting, Testing Projects
