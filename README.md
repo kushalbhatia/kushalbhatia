@@ -1,6 +1,6 @@
 ### Hey There!
 
-- 🔭 I am well versed in Python, SQL, HTML5 and CSS3
+- 🔭 I am experienced in Python, SQL, HTML5 and CSS3
 - 👯 I’m looking to collaborate on Backend, Automation, Scripting, Testing Projects
 - 🤔 I’m looking for help with Careers
 - 💬 Ask me about Anything!
